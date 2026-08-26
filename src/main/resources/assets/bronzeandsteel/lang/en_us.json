@@ -1,0 +1,13 @@
+{
+  "itemGroup.bronzeandsteel": "Bronze And Steel",
+  "block.bronzeandsteel.example_block": "Example Block",
+  "item.bronzeandsteel.example_item": "Example Item",
+
+  "bronzeandsteel.configuration.title": "Bronze And Steel Configs",
+  "bronzeandsteel.configuration.section.bronzeandsteel.common.toml": "Bronze And Steel Configs",
+  "bronzeandsteel.configuration.section.bronzeandsteel.common.toml.title": "Bronze And Steel Configs",
+  "bronzeandsteel.configuration.items": "Item List",
+  "bronzeandsteel.configuration.logDirtBlock": "Log Dirt Block",
+  "bronzeandsteel.configuration.magicNumberIntroduction": "Magic Number Text",
+  "bronzeandsteel.configuration.magicNumber": "Magic Number"
+}

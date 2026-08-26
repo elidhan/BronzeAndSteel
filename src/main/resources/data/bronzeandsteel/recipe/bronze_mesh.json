@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "item": "bronzeandsteel:silicon_mixture"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "bronzeandsteel:bronze_mesh"
+  }
+}

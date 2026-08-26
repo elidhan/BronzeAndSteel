@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "steel",
+  "ingredient": {
+    "item": "bronzeandsteel:crude_iron"
+  },
+  "result": {
+    "count": 1,
+    "id": "bronzeandsteel:steel_ingot"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bronzeandsteel:steel_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "bronzeandsteel:steel_ingot"
+  }
+}

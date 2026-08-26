@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "bronze",
+  "ingredient": {
+    "item": "bronzeandsteel:bronze_mesh"
+  },
+  "result": {
+    "count": 1,
+    "id": "bronzeandsteel:bronze_ingot"
+  }
+}
