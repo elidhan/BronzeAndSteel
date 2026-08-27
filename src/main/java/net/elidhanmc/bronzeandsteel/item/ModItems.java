@@ -36,7 +36,7 @@ public class ModItems {
     public static final DeferredItem<AxeItem> BRONZE_AXE = ITEMS.register("bronze_axe", () ->
             new AxeItem(ModToolTiers.BRONZE,
                     new Item.Properties().attributes(AxeItem.createAttributes(ModToolTiers.BRONZE,
-                            5.0f,
+                            4.0f,
                             -3.0f))));
     public static final DeferredItem<ShovelItem> BRONZE_SHOVEL = ITEMS.register("bronze_shovel", () ->
             new ShovelItem(ModToolTiers.BRONZE,

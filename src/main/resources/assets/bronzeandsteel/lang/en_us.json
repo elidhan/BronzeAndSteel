@@ -1,7 +1,34 @@
 {
   "itemGroup.bronzeandsteel": "Bronze And Steel",
-  "block.bronzeandsteel.example_block": "Example Block",
-  "item.bronzeandsteel.example_item": "Example Item",
+  "block.bronzeandsteel.bronze_block": "Block of Bronze",
+  "block.bronzeandsteel.steel_block": "Block of Steel",
+
+  "item.bronzeandsteel.silicon_mixture": "Silicon Mixture",
+  "item.bronzeandsteel.bronze_mesh": "Bronze Mesh",
+
+  "item.bronzeandsteel.crude_iron": "Crude Iron",
+
+  "item.bronzeandsteel.bronze_ingot": "Bronze Ingot",
+  "item.bronzeandsteel.bronze_sword": "Bronze Sword",
+  "item.bronzeandsteel.bronze_pickaxe": "Bronze Pickaxe",
+  "item.bronzeandsteel.bronze_axe": "Bronze Axe",
+  "item.bronzeandsteel.bronze_shovel": "Bronze Shovel",
+  "item.bronzeandsteel.bronze_hoe": "Bronze Hoe",
+  "item.bronzeandsteel.bronze_helmet": "Bronze Helmet",
+  "item.bronzeandsteel.bronze_chestplate": "Bronze Chestplate",
+  "item.bronzeandsteel.bronze_leggings": "Bronze Leggings",
+  "item.bronzeandsteel.bronze_boots": "Bronze Boots",
+
+  "item.bronzeandsteel.steel_ingot": "Steel Ingot",
+  "item.bronzeandsteel.steel_sword": "Steel Sword",
+  "item.bronzeandsteel.steel_pickaxe": "Steel Pickaxe",
+  "item.bronzeandsteel.steel_axe": "Steel Axe",
+  "item.bronzeandsteel.steel_shovel": "Steel Shovel",
+  "item.bronzeandsteel.steel_hoe": "Steel Hoe",
+  "item.bronzeandsteel.steel_helmet": "Steel Helmet",
+  "item.bronzeandsteel.steel_chestplate": "Steel Chestplate",
+  "item.bronzeandsteel.steel_leggings": "Steel Leggings",
+  "item.bronzeandsteel.steel_boots": "Steel Boots",
 
   "bronzeandsteel.configuration.title": "Bronze And Steel Configs",
   "bronzeandsteel.configuration.section.bronzeandsteel.common.toml": "Bronze And Steel Configs",
