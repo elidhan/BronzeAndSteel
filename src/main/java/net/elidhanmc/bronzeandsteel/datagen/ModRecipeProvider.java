@@ -159,6 +159,11 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                 .unlockedBy(string, has(input))
                 .save(recipeOutput);
     }
+
+    // The following method/s are adapted from Kaupenjoe's NeoForge 1.21.X tutorial series
+    // https://github.com/Tutorials-By-Kaupenjoe/NeoForge-Tutorial-1.21.X
+    // Original copyright (c) 2024 Kaupenjoe. Used under MIT License.
+
     protected static void oreSmelting(RecipeOutput recipeOutput, List<ItemLike> pIngredients, RecipeCategory pCategory, ItemLike pResult,
                                       float pExperience, int pCookingTIme, String pGroup) {
         oreCooking(recipeOutput, RecipeSerializer.SMELTING_RECIPE, SmeltingRecipe::new, pIngredients, pCategory, pResult,
@@ -170,7 +175,6 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
         oreCooking(recipeOutput, RecipeSerializer.BLASTING_RECIPE, BlastingRecipe::new, pIngredients, pCategory, pResult,
                 pExperience, pCookingTime, pGroup, "_from_blasting");
     }
-
     protected static <T extends AbstractCookingRecipe> void oreCooking(RecipeOutput recipeOutput, RecipeSerializer<T> pCookingSerializer, AbstractCookingRecipe.Factory<T> factory,
                                                                        List<ItemLike> pIngredients, RecipeCategory pCategory, ItemLike pResult, float pExperience, int pCookingTime, String pGroup, String pRecipeName) {
         for(ItemLike itemlike : pIngredients) {
